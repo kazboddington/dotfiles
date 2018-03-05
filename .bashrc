@@ -1,4 +1,7 @@
 alias lg="git log --graph --pretty=oneline --abbrev-commit"
+alias ls="ls -h -a -G"
+alias vim="/Applications/MacVim.app/Contents/bin/mvim -v"
+
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
